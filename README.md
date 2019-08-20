@@ -5,7 +5,7 @@ AlphaZeroのアルゴリズムでリバーシするAI作った。
 ![デモ画像](https://github.com/derodero24/reversi_zero/blob/master/demo1.gif)
 
 終盤（負けた。。。）
-![デモ画像](https://github.com/derodero24/reversi_zero/blob/master/demo1.gif)
+![デモ画像](https://github.com/derodero24/reversi_zero/blob/master/demo2.gif)
 
 ## コード
 - game.py: ゲーム状態
